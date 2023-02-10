@@ -1,0 +1,1 @@
+updatestdimgs > ../src/stdimages.inc
